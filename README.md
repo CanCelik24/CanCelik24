@@ -1,6 +1,6 @@
 # CanCelik24
 
-## Hi, I'm Oğulcan ÇELİK <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+## Hi, I'm Oğulcan ÇELİK   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 I'm a currently working on Front-End Development 💻  (getting ready)
 

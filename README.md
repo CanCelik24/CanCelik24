@@ -4,14 +4,14 @@
 
 I'm a currently working on Front-End Development 💻  (getting ready)
 
-## 💼 Languages and Tools
+## Languages and Tools
 
-## 🤝 Connect with me
+## Connect with me
 
-## 🌱 I'm currently learning
+## I'm currently learning
 
 - Bootstrap
 - JavaScript
 - C# 
 
-## 💼 Languages and Tools
+## Languages and Tools

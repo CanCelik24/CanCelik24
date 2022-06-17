@@ -17,7 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" width="45"/>
           
 ### Connect with me
-          <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogulcanCelik" height="45" width="45" /></a>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/cancelik24/" target="blank"><img align="center" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />" alt="ogulcanCelik" height="45" width="45" /></a>
 
     
           

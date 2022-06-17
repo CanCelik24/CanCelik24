@@ -9,21 +9,21 @@
 ### Languages and Tools
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="45" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="45" width="45" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" /> &nbsp;
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" width="45" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" width="45" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" width="45" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" width="45"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" title="HTML5" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="45" title="CSS3"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45" title="Git"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" width="45" title="Github"/> &nbsp;          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="45" width="45" title="Bootstrap" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" title="JavaScript"/> &nbsp;
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" title="Microsoft SQL Server"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" width="45" title="Visual Studio Code"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" width="45" title="intelliJ IDEA"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" width="45" title="Anroid Studio" /> &nbsp;
           
 ### Connect with me
 
 <p align="left">
-<a href="mailto:ogulcan.celik24@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/undefined/gmail--v1.png" alt="ogulcanCelik" title="Send Mail" height="45" width="45" /></a> &nbsp;          
+<a href="mailto:ogulcan.celik24@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/96/undefined/gmail-new.png" alt="ogulcanCelik" title="Send Mail" height="45" width="45" /></a> &nbsp;          
 <a href="https://www.linkedin.com/in/cancelik24/" target="blank"><img align="center" src="https://img.icons8.com/color/96/undefined/linkedin.png" alt="ogulcanCelik" title="Oğulcan ÇELİK's Linkedin Profile" height="45" width="45" /></a> &nbsp;
 <a href="https://twitter.com/Cnclk24" target="blank"><img align="center" src="https://img.icons8.com/color/96/undefined/twitter-squared.png" title="Ogulcan CELIK's Twitter Profile" height="45" width="45" /></a> &nbsp;           
 <a href="https://www.instagram.com/ogulcancelik.24/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" alt="ogulcanCelik" title="Ogulcan CELIK's Instagram Profile" height="45" width="45" /></a> &nbsp;   

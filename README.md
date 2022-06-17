@@ -24,17 +24,16 @@
 
 <p align="left">
 <a href="mailto:ogulcan.celik24@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/undefined/gmail--v1.png" alt="ogulcanCelik" title="Send Mail" height="45" width="45" /></a> &nbsp;          
-<a href="https://www.linkedin.com/in/cancelik24/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ogulcanCelik" title="Oğulcan ÇELİK's Linkedin Profile" height="45" width="45" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/cancelik24/" target="blank"><img align="center" src="https://img.icons8.com/color/96/undefined/linkedin.png" alt="ogulcanCelik" title="Oğulcan ÇELİK's Linkedin Profile" height="45" width="45" /></a> &nbsp;
 <a href="https://twitter.com/Cnclk24" target="blank"><img align="center" src="https://img.icons8.com/color/96/undefined/twitter-squared.png" title="Ogulcan CELIK's Twitter Profile" height="45" width="45" /></a> &nbsp;           
 <a href="https://www.instagram.com/ogulcancelik.24/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" alt="ogulcanCelik" title="Ogulcan CELIK's Instagram Profile" height="45" width="45" /></a> &nbsp;   
-<a href="https://stackoverflow.com/users/19294952/o%c4%9fulcan-%c3%87el%c4%b0k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19294952" title="Ogulcan CELIK's Stack Overflow Profile" height="45" width="45" /></a> &nbsp;
           
 <br>          
 <details>
   <summary><b>🛠️&nbsp;&nbsp;My&nbsp;other&nbsp;profiles</b></summary>
   <br/>           
           <a href="https://www.hackerrank.com/ogulcan_celik24" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="oğulcanÇelik" title="Ogulcan Celik's HackerRank Profile" height="45" width="45" /></a> &nbsp;       
-          
+          <a href="https://stackoverflow.com/users/19294952/o%c4%9fulcan-%c3%87el%c4%b0k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19294952" title="Ogulcan CELIK's Stack Overflow Profile" height="45" width="45" /></a> &nbsp;          
           
           
 </details>
@@ -44,13 +43,14 @@
   <br/>  
   <p align="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45" /> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" />  
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" /> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45" /> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" /> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" /> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" />           
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" />
+            
 </details>
 
 <br>          

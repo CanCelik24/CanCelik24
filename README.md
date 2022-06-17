@@ -1,22 +1,21 @@
-# CanCelik24
-
-## Hi, I'm Oğulcan ÇELİK  &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+## Hi, I'm Oğulcan ÇELİK  &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
 I'm a currently working on Front-End Development 💻  (getting ready)
 
-## Languages and Tools
+### Languages and Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+          
 
+### Connect with me
 
-
-## Connect with me
-
-## I'm currently learning
+### I'm currently learning
 
 - Bootstrap
 - JavaScript
 - C# 
 
-## Languages and Tools
+### Languages and Tools
 
 
 

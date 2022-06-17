@@ -2,6 +2,8 @@
 
 - I'm a currently working on Front-End Development &nbsp;💻
 
+### necktie About Me
+
 ### Languages and Tools
 
 <p align="left">

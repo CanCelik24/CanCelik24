@@ -19,7 +19,7 @@
 ### Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/cancelik24/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ogulcanCelik" height="45" width="45" /></a>
+<a href="https://www.linkedin.com/in/cancelik24/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ogulcanCelik" title="Oğulcan ÇELİK's Profile" height="45" width="45" /></a>
 
     
           

@@ -33,7 +33,8 @@
   <summary><b>🛠️&nbsp;&nbsp;My&nbsp;other&nbsp;profiles</b></summary>
   <br/>           
           <a href="https://www.hackerrank.com/ogulcan_celik24" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="oğulcanÇelik" title="Ogulcan Celik's HackerRank Profile" height="45" width="45" /></a> &nbsp;       
-          <a href="https://stackoverflow.com/users/19294952/o%c4%9fulcan-%c3%87el%c4%b0k" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19294952" title="Ogulcan CELIK's Stack Overflow Profile" height="45" width="45" /></a> &nbsp;          
+          <a href="https://stackoverflow.com/users/19294952/o%c4%9fulcan-%c3%87el%c4%b0k" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19294952" title="Ogulcan CELIK's Stack Overflow Profile" height="45" width="45" /></a> &nbsp;
+          <a href="https://app.patika.dev/canncelik" target="_blank"><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="Patika.dev" title="Oğulcan ÇELİK Patika.dev Profile" height="45" /></a> &nbsp;
           
           
 </details>

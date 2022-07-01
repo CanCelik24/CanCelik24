@@ -55,7 +55,9 @@
 </details>
 
 <br>          
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![Ogulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanCelik24&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanCelik24&layout=compact)](https://github.com/CanCelik24/github-readme-stats)
+<p float="left">
+![Ogulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanCelik24&theme=dark&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanCelik24&layout=compact)](https://github.com/CanCelik24/github-readme-stats)          
+</p>
+
 

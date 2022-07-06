@@ -14,7 +14,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="45" width="45" title="Bootstrap" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" title="JavaScript"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45" title="Git"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" width="45" title="Github"/> &nbsp;                  
+<picture>
+  <source 
+    srcset="https://icon-library.com/icon/github-svg-icon-3.html.html>Github Svg Icon # 170844" height="45" width="45" title="Github Dark" 
+    media="(prefers-color-scheme: dark)">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" width="45" title="Github">
+</picture> &nbsp;
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" title="Microsoft SQL Server"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" width="45" title="Visual Studio Code"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" width="45" title="intelliJ IDEA"/> &nbsp;

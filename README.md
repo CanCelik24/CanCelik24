@@ -13,6 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="45" title="CSS3"/> &nbsp;         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="45" width="45" title="Bootstrap" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" title="JavaScript"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45" title="React JS" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45" title="Git"/> &nbsp;
 <picture>
   <source
@@ -20,7 +21,12 @@
           media="(prefers-color-scheme: dark)">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" width="45" title="Github">
 </picture> &nbsp;
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" title="Microsoft SQL Server"/> &nbsp;
+<picture>
+  <source
+          srcset="https://img.icons8.com/color/240/000000/microsoft-sql-server.png" width="45" height="45" title="Microsoft SQL Server Dark"
+          media="(prefers-color-scheme: dark)">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" title="Microsoft SQL Server">
+</picture> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" width="45" title="Visual Studio Code"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" width="45" title="intelliJ IDEA"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" width="45" title="Anroid Studio" /> &nbsp;
@@ -48,7 +54,7 @@
   <summary><b>🛠️&nbsp;&nbsp;I'm&nbsp;currently&nbsp;learning</b></summary>
   <br/>  
   <p align="left">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45" /> 
+    
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" />  
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" /> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45" /> 

@@ -54,18 +54,16 @@
   <summary><b>🛠️&nbsp;&nbsp;I'm&nbsp;currently&nbsp;learning</b></summary>
   <br/>  
   <p align="left">
-    
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" />  
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" /> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45" /> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" /> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" />           
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" />
-            
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" /> </p>     
 </details>
-
-
+<br>
+<br>
 <a href="https://github.com/CanCelik24/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=CanCelik24&theme=dark&show_icons=true&hide_border=true" alt ="Ogulcan's GitHub Stats" width="60%" /></a>
 
 <a href="https://github.com/CanCelik24/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanCelik24&layout=compact&theme=dark&hide_border=true" alt ="Ogulcan's Top Languages" width="37%" /></a>

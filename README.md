@@ -59,5 +59,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanCelik24&layout=compact&theme=dark" width="37%" alt ="Ogulcan's Top Languages"/>
 
-| <a href="https://github.com/CanCelik24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CanCelik24&theme=dark&show_icons=true&hide_border=true" alt="Ogulcan's GitHub Stats" /></a> | <a href="https://github.com/CanCelik24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanCelik24&layout=compact&theme=dark&hide_border=true" panding="0" alt ="Ogulcan's Top Languages" /></a> |
+| <a href="https://github.com/CanCelik24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CanCelik24&theme=dark&show_icons=true&hide_border=true" alt="Ogulcan's GitHub Stats" /></a> | <a href="https://github.com/CanCelik24/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanCelik24&layout=compact&theme=dark&hide_border=true" alt ="Ogulcan's Top Languages" /></a> |
 | ------------- | ------------- |

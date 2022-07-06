@@ -57,6 +57,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=CanCelik24&theme=dark&show_icons=true" alt ="Ogulcan's GitHub Stats" width="60%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanCelik24&layout=compact" width="37%" alt ="Ogulcan's Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanCelik24&layout=compact&theme=dark" width="37%" alt ="Ogulcan's Top Languages"/>
 
 

@@ -16,7 +16,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45" title="Git"/> &nbsp;
 <picture>
   <source 
-    srcset="https://icon-library.com/icon/github-svg-icon-3.html.html>Github Svg Icon # 170844" height="45" width="45" title="Github Dark" 
+    srcset="https://icon-library.com/icon/github-svg-icon-3.html.html" height="45" width="45" title="Github Dark" 
     media="(prefers-color-scheme: dark)">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" width="45" title="Github">
 </picture> &nbsp;

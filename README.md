@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 
+- Front-end developer candidate
 
 ### Languages and Tools
 

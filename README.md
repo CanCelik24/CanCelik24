@@ -15,6 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" title="JavaScript"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45" title="React JS" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45" title="Git"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" width="45" title="Node.js" /> &nbsp;  
 <picture>
   <source
           srcset="https://img.icons8.com/plasticine/100/000000/github.png" height="45" width="45" title="Github Dark" 
@@ -29,7 +30,7 @@
 </picture> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" width="45" title="Visual Studio Code"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" width="45" title="intelliJ IDEA"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" width="45" title="Anroid Studio" /> &nbsp;
+
           
 ### Connect with me
 
